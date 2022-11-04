@@ -1,4 +1,6 @@
-#!/home/simakov/Код/search-for-me/venv/bin/python3
+#!/bin/sh
+'''exec' "/home/simakov/04 Код/search-for-me/venv/bin/python" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
